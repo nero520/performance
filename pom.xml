@@ -9,6 +9,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>java-base</module>
+        <module>java-bugs</module>
     </modules>
 
     <properties>

@@ -1,6 +1,8 @@
 # performance主要是测试java开发中一些使用性能问题
 java相关性能的测试<br />
-##java-base基础包测试模块<br />
+##1.java-base基础包测试模块<br />
+##2.java-bugs常见bug与修正模块<br />
+##1.java-base基础包测试模块<br />
 ###1. new Boolean("true") 与 Boolean.valueOf("true")<br />
 1000次循环打印 性能70:40左右 Boolean.valueOf性能高<br />
 ###2. HashMap.keySet() 与 HashMap.entrySet()<br />
