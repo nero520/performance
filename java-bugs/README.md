@@ -21,7 +21,7 @@
    public Date getExcuteTime() {<br />
        Date excTime = null;<br />
        if(excuteTime!=null){<br />
-           excTime = (Date)excTime.clone();<br />
+           excTime = (Date)excuteTime.clone();<br />
        }<br />
        return excTime;<br />
    }<br />
