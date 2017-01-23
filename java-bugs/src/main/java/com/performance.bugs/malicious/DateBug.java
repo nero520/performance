@@ -11,7 +11,7 @@ public class DateBug {
     Date excuteTime;
 
     /**
-     * ´íÎó´úÂëĞŞ¸ÄÇ°
+     * é”™è¯¯ä»£ç ä¿®æ”¹å‰
      * @param excuteTime
      */
    /* public void setExcuteTime(Date excuteTime) {
@@ -19,7 +19,7 @@ public class DateBug {
     }*/
 
     /**
-     * ´íÎó´úÂëĞŞ¸Äºó
+     * é”™è¯¯ä»£ç ä¿®æ”¹å
      * @param excuteTime
      */
     public void setExcuteTime(Date excuteTime) {
