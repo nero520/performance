@@ -1,3 +1,8 @@
+#java-base基础测试环境<br />
+操作系统:Windows10<br />
+处理器:Intel(R) Core(TM) i5-5200 @ 2.20GHz 2.19GHz<br />
+内存:8G<br />
+JAVA版本:JDK1.7<br />
 #java-base基础包测试模块<br />
 ###1. new Boolean("true") 与 Boolean.valueOf("true")<br />
 1000次循环打印 性能70:40左右 Boolean.valueOf性能高<br />
