@@ -10,6 +10,7 @@
     <modules>
         <module>java-base</module>
         <module>java-bugs</module>
+        <module>java-algorithm</module>
     </modules>
 
     <properties>
