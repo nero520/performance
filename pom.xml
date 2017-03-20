@@ -11,6 +11,7 @@
         <module>java-base</module>
         <module>java-bugs</module>
         <module>java-algorithm</module>
+        <module>java-design</module>
     </modules>
 
     <properties>

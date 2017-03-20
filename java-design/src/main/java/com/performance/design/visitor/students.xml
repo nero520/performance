@@ -1,0 +1,32 @@
+<students>
+    <student>
+        <name>小暖心</name>
+        <gender>女</gender>
+        <age>18</age>
+        <hobby>傲然</hobby>
+    </student>
+    <student>
+        <name>MBBoy</name>
+        <gender>男</gender>
+        <age>20</age>
+        <hobby>借牙签</hobby>
+    </student>
+    <student>
+        <name>海</name>
+        <gender>男</gender>
+        <age>16</age>
+        <hobby>助人为乐</hobby>
+    </student>
+    <student>
+        <name>-1</name>
+        <gender>男</gender>
+        <age>69</age>
+        <hobby>芳芳女神</hobby>
+    </student>
+    <student>
+        <name>yyp</name>
+        <gender>女</gender>
+        <age>18</age>
+        <hobby>学习</hobby>
+    </student>
+</students>
