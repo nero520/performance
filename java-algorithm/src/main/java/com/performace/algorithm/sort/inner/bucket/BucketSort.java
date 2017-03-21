@@ -1,7 +1,7 @@
 package com.performace.algorithm.sort.inner.bucket;
 
 /**
- * 桶排序
+ * 桶排序 
  * @author xiaoxiong
  */
 public class BucketSort {
