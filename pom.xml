@@ -12,6 +12,7 @@
         <module>java-bugs</module>
         <module>java-algorithm</module>
         <module>java-design</module>
+        <module>java-concurrent</module>
     </modules>
 
     <properties>
