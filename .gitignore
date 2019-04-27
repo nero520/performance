@@ -1,4 +1,16 @@
 *.class
+.idea/
+*.iml
+target/
+logs/
+.project
+.classpath
+.settings/
+.DS_Store
+*.bak
+.factorypath
+application-dev-default.properties
+application-test-default.properties
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
