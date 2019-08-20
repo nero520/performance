@@ -15,6 +15,7 @@
         <module>java-concurrent</module>
         <module>java-net</module>
         <module>java-jvm</module>
+        <module>java-gui</module>
     </modules>
 
     <properties>
