@@ -16,6 +16,7 @@
         <module>java-net</module>
         <module>java-jvm</module>
         <module>java-gui</module>
+        <module>java-springboot</module>
     </modules>
 
     <properties>
